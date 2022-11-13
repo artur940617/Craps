@@ -1,3 +1,4 @@
+# Game craps
 import random
 
 one = random.randint(1,7)
